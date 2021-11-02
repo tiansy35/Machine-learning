@@ -4,8 +4,8 @@ Python code for course assignments on machine learning algorithms and their appl
 
 Topics include:
 
-1. Decision Trees (data processing, CART, pruning, application on diabetes diagnosis)
+1. Decision Trees (application on diabetes diagnosis) - data processing, CART, pruning, cross validation
 
-2. Linear Regression (regularization, feature transformation, polynomial regression)
+2. Linear Regression - regularization, feature transformation, polynomial regression
 
 3. 
