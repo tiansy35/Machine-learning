@@ -12,4 +12,4 @@ Survey (NHANES) [[link](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/overvi
 
 **3. Logistic Regression**
    - Theory: log loss, stochastic gradient descent (SGD), Adagrad
-   - Application: medical diagnosis, using data from the UCI machine learning repository, such as the Breast Cancer Wisconsin dataset [[link](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)] and the diabetic retinopathy dataset [[link](https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set)].
+   - Application: medical diagnosis, using data from the UCI machine learning repository, such as the Breast Cancer Wisconsin dataset [[link](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)] and the diabetic retinopathy dataset [[link](https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set)]
