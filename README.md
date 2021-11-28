@@ -17,4 +17,4 @@ Survey (NHANES) [[link](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/overvi
 
 **4. SVM, Emsemble Methods**
    - Theory: support vector machines (hinge loss, support vectors, kernel method), boosting, Adaboost
-   - Application: equipment failure prediction, data [[link1](https://www.seas.upenn.edu/~cis519/spring2020/homework/ChocolatePipes_trainData.csv), [link2](https://www.seas.upenn.edu/~cis519/spring2020/homework/ChocolatePipes_trainLabels.csv)]
+   - Application: equipment failure prediction, data from [[link1](https://www.seas.upenn.edu/~cis519/spring2020/homework/ChocolatePipes_trainData.csv), [link2](https://www.seas.upenn.edu/~cis519/spring2020/homework/ChocolatePipes_trainLabels.csv)]
